@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_rn_splash_login_design_reanimated_rn_splash_login_design_reanimatedTests : NSObject
-@end
-@implementation PodsDummy_Pods_rn_splash_login_design_reanimated_rn_splash_login_design_reanimatedTests
-@end
