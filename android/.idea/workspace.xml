@@ -5,26 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a09e283a-65f6-4e53-9005-f245c096ae0c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/dependencies-accessors/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/dependencies-accessors/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug.keystore" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug.keystore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rn_splash_login_design_reanimated/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/rn_splash_login_design_reanimated/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rn_splash_login_design_reanimated/MainApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/rn_splash_login_design_reanimated/MainApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/xcuserdata/dhinakaranthangavel.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/xcuserdata/dhinakaranthangavel.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests-acknowledgements.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests.debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests/Pods-rn_splash_login_design_reanimated-rn_splash_login_design_reanimatedTests.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated-acknowledgements.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated.debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-rn_splash_login_design_reanimated/Pods-rn_splash_login_design_reanimated.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/React-Codegen/React-Codegen-umbrella.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/React-Codegen/React-Codegen-umbrella.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/react-native/React/Fabric/RCTThirdPartyFabricComponentsProvider.h" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native/React/Fabric/RCTThirdPartyFabricComponentsProvider.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/react-native/React/Fabric/RCTThirdPartyFabricComponentsProvider.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native/React/Fabric/RCTThirdPartyFabricComponentsProvider.mm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +53,29 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rn_splash_login_design_reanimated" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kTmibfYCuNfEOyjHONWZxi2Fsi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,6 +86,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
