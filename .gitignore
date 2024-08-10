@@ -157,3 +157,83 @@ build/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Xcode
+.DS_Store
+UserInterfaceState.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xcuserdatad
+
+# iOS
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+xcuserdata/
+
+# Swift Package Manager
+.build/
+*.llbuild/
+Package.resolved
+# Package Config
+.swiftpm/xcode/package.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Xcode automatic schemes
+xcshareddata/xcschemes/*
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+# It is recommended to not store the screenshots in the git repo.
+# Instead, use fastlane to re-generate the screenshots whenever they are needed.
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+*/fastlane/test_output
+
+# Bundle artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Personal settings
+*.xcuserdatad/
+
+# Temporary files
+*.swp
+*~
+
+# Misc
+*.env
