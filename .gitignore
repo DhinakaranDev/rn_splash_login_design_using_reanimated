@@ -123,6 +123,8 @@ google-services.json
 # Gradle configuration files
 .gradle/
 build/
+android/.gradle/
+android/.idea
 
 # Files for the Android 4.0+ Eclipse IDE (ADT)
 .classpath
