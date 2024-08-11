@@ -11,6 +11,7 @@ const Loader: React.FC<LoaderProps> = ({ loading }) => {
       transparent={true}
       animationType={"none"}
       visible={loading}
+      testID="loader-modal"
       onRequestClose={() => {
         console.log("close modal");
       }}
